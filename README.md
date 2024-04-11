@@ -20,7 +20,7 @@ Running aircrack-ng NCL-PCAP1.pcap: <br/>
 <br />
 <br />
 Capturing the Initialization vector:  <br/>
-<img src="https://imgur.com/undefined.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/Q8oWsLZ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Key Obtained After Running aircrack-ng: <br/>
