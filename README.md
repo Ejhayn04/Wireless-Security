@@ -28,7 +28,7 @@ Key Obtained After Running aircrack-ng: <br/>
 <br />
 <br />
 TCP CheckSum Capture:  <br/>
-<img src="https://imgur.com/stSFMxhpng.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/stSFMxh.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 
