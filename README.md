@@ -24,11 +24,11 @@ Capturing the Initialization vector:  <br/>
 <br />
 <br />
 Key Obtained After Running aircrack-ng: <br/>
-<img src="https://imgur.com/zgh8ySN" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/zgh8ySN.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 TCP CheckSum Capture:  <br/>
-<img src="https://imgur.com/stSFMxhpng" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/stSFMxhpng.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 
